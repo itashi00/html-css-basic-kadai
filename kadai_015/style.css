@@ -17,7 +17,7 @@ html{
 
 h1{
   font-family: "Josefin Sans", sans-serif;
-  font-size: 40px;
+  font-size: 2rem;
   letter-spacing: 1.2em;
   text-shadow: 2px 2px yellowgreen;
   border-bottom: 2px solid rgb(115, 115, 114);
@@ -27,3 +27,4 @@ h1{
 #basic p{
   font-weight: bold;
 }
+
